@@ -64,3 +64,5 @@ And Alicia developed the front-end dashboard with:
 I would like to thank everyone - mentors, judges and in particular, the organisers - who provided us with the opportunity to work on such interesting problems in this hackathon. I would also like to thank [Bletchley park's National museum of computing](https://bletchleypark.org.uk/visit-us/the-national-museum-of-computing) for hosting us over the weekend.
 
 I'm excited to see how we can take our accessibility API, and machine learning platform forward with  Transport for London and Network Rail.
+
+##### Copyright (c) Ali Parandeh
