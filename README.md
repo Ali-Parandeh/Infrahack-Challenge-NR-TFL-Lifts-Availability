@@ -10,7 +10,7 @@ I cannot believe we that we 🏆 **Won the 1st prize at Infra-hack 2019 plus Net
 <img alt="Infrahack Team with NR and TFL Principals" src="Images/Infrahack-team-and-NR-TFL-Principals.jpg" width="1000">
 <img alt="Infrahack Team with KPMG Associate Director" src="Images/Infrahack-team-and-kpmg-director.jpg" width="1000">
 
-The Infrahack finals was held at [KPMG Headquarters](https://home.kpmg/uk/en/home.html) in London's Canary Wharf, during which our solution was unanimously judged as the winning solution by the decision makers of the UK's infrastructure industry which include: 
+The Infrahack finals were held at [KPMG Headquarters](https://home.kpmg/uk/en/home.html) in London's Canary Wharf, during which our solution was unanimously judged as the winning solution by the decision makers of the UK's infrastructure industry which include: 
 - **Bridget Rosewell** (Commissioner of the UK National Infrastructure Commission)
 - **Philip Graham** (Chief Executive of the UK National Infrastructure Commission)
 - **Glen Worrall** (Principal Application Engineer at Bentley Systems)
@@ -28,8 +28,8 @@ The Infrahack finals was held at [KPMG Headquarters](https://home.kpmg/uk/en/hom
 Over a weekend we built a public accessibility API, to provide live information on lift and escalator operational status across every station in the UK to the public! This API can be used by journey planner apps such as [National Rail Enquiries](https://www.nationalrail.co.uk/) and [trainline](https://www.thetrainline.com/) to provide mobility friendly journey itineraries to passengers.  
 
 See below for the technology stack we used to build the API and example implementation.
-### Accessability API Technology Stack
-<img alt="Public Accessability API Implementation Example" src="Images/public-accessability-API-implementation-Example.png" width="1000">
+### Accessibility API Technology Stack
+<img alt="Public Accessibility API Implementation Example" src="Images/public-accessability-API-implementation-Example.png" width="1000">
 
 Within the 48 hours, we also developed a customer/maintainer dashboard that uses the API.
 
@@ -40,9 +40,9 @@ Within the 48 hours, we also developed a customer/maintainer dashboard that uses
 
 ---
 
-# Problem 2 - Priorotisation of Lifts / Escalators Maintenance
+# Problem 2 - Prioritisation of Lifts / Escalators Maintenance
 
-In addition to that, we also leveraged **machine learning and computer vision algorithms** on Network Rail's CCTV footage to recommend appropriate lift maintenance cycles so that maintainers can priorotise the maintenance of heavily used lifts or escalators across the UK. The CV algorithm is used to count number of people using the station or its assets which can inform operations and maintenance strategy of the stations.
+In addition to that, we also leveraged **machine learning and computer vision algorithms** on Network Rail's CCTV footage to recommend appropriate lift maintenance cycles so that maintainers can prioritise the maintenance of heavily used lifts or escalators across the UK. The CV algorithm is used to count number of people using the stations or their assets which can inform operations and maintenance strategy of the stations.
 
 ### Demo of the CCTV CV Algorithm
 <img alt="[CCTV Computer Vision Demo" src="Images/CCTV%20Computer%20Vision.gif" width="1000">
